@@ -20,9 +20,14 @@ usage: bind.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE] [-p OUTPUTPATH
 ##
 
 optional arguments:
+##
 
 -h, --help show this help message and exit
+##
 -f AUDIOFILE Select Audio File
+##
 -m SECRETMSG Enter your message
+##
 -o OUTPUTFILE Your output file path and name ( with .wav extension )
+##
 -p Path of your output file
