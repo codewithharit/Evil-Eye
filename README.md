@@ -1,5 +1,5 @@
 # Evil-Eye
-Evil Eye is a tool for Audio steganography.
+Evil Eye is a tool for Audio Steganography.
 
 
 
