@@ -10,7 +10,15 @@ Evil Eye is a tool of python based program for simple audio steganography.
 
 Audio steganography is about hiding the secret message into the audio. It is a technique uses to secure the transmission of secret information or hide their existence. It also may provide confidentiality to secret message if the message is encrypted.
 
+## Installation ( Linux )
 
+```
+git clone https://github.com/codewithharit/Evil-Eye.git
+cd Evil-Eye
+chmod +x *
+bash linux.sh
+python3 bind.py 
+```
 
 ## Usage
 
