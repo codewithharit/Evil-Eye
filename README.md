@@ -17,6 +17,7 @@ Audio steganography is about hiding the secret message into the audio. It is a t
 usage: bind.py [-h] [-f AUDIOFILE] [-m SECRETMSG] [-o OUTPUTFILE] [-p OUTPUTPATH]
 
 optional arguments:
+
   -h, --help    show this help message and exit
   -f AUDIOFILE  Select Audio File
   -m SECRETMSG  Enter your message
