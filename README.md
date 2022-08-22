@@ -50,7 +50,7 @@ optional arguments:
 ## Extract Hidden Text Message  from Audio file
 
 ```
-python3 ExWave.py -f outputfile (with .wav extension)
+python3 extract.py  -f outputfile (with .wav extension)
 ```
 
 ![Screenshot at 2022-08-22 23-58-20](https://user-images.githubusercontent.com/88737074/185993280-cd7f13e7-44a9-4d2d-a360-2ff4e2764b94.png)
