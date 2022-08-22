@@ -47,3 +47,11 @@ optional arguments:
 -p Path of your output file
 
 ```
+## Extract Hidden Text Message  from Audio file
+
+```
+python3 ExWave.py -f outputfile (with .wav extension)
+```
+
+
+
