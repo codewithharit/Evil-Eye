@@ -20,6 +20,17 @@ bash linux.sh
 python3 bind.py 
 ```
 
+## Installation ( Termux )
+
+```
+git clone https://github.com/codewithharit/Evil-Eye.git
+cd Evil-Eye
+chmod +x *
+bash termux.sh
+python3 bind.py 
+```
+
+
 ## Usage
 
 ```
