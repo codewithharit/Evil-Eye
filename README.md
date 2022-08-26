@@ -62,9 +62,9 @@ python3 extract.py  -f outputfile (with .wav extension)
 
 
 ### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/HNM9HYhHc3E/0.jpg)](https://www.youtube.com/watch?v=UPQD7L9FNrk)
+[![Evil Eye](https://img.youtube.com/vi/HNM9HYhHc3E/0.jpg)](https://www.youtube.com/watch?v=HNM9HYhHc3E)
 
 
 
-###For More Video subcribe <a href="https://www.youtube.com/channel/UCuulPn_llK3PpK4mA9P6bjQ/videost">Cyber Octopus YouTube Channel</a>
+## For More Video subcribe <a href="https://www.youtube.com/channel/UCuulPn_llK3PpK4mA9P6bjQ/videost">Cyber Octopus YouTube Channel</a>
 
