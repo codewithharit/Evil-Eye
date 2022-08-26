@@ -59,9 +59,12 @@ python3 extract.py  -f outputfile (with .wav extension)
 ![Screenshot at 2022-08-22 23-59-23](https://user-images.githubusercontent.com/88737074/185993515-c45c226d-d37e-4a37-b787-31a6b2edd418.png)
 
 
-#
+
 
 ### Video Demo
-(![Photo_1661238410390]([https://user-images.githubusercontent.com/88737074/186801348-8a193d41-036d-455e-8fb6-0505e09b067a.png](https://i3.ytimg.com/vi/HNM9HYhHc3E/maxresdefault.jpg)))](https://youtu.be/HNM9HYhHc3E)
+[![How to control android camera](https://img.youtube.com/vi/HNM9HYhHc3E/0.jpg)](https://www.youtube.com/watch?v=UPQD7L9FNrk)
+
+
+
 ###For More Video subcribe <a href="https://www.youtube.com/channel/UCuulPn_llK3PpK4mA9P6bjQ/videost">Cyber Octopus YouTube Channel</a>
 
