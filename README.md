@@ -66,5 +66,5 @@ python3 extract.py  -f outputfile (with .wav extension)
 
 
 
-## For More Video subcribe <a href="https://www.youtube.com/channel/UCuulPn_llK3PpK4mA9P6bjQ/videost">Cyber Octopus YouTube Channel</a>
+## For More Video Subscribe  <a href="https://www.youtube.com/channel/UCuulPn_llK3PpK4mA9P6bjQ/videost">Cyber Octopus YouTube Channel</a>
 
